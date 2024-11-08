@@ -1,0 +1,14 @@
+C:\Users\paulu\source\repos\Task001\Task001\bin\Debug\net8.0\Task001.exe
+C:\Users\paulu\source\repos\Task001\Task001\bin\Debug\net8.0\Task001.deps.json
+C:\Users\paulu\source\repos\Task001\Task001\bin\Debug\net8.0\Task001.runtimeconfig.json
+C:\Users\paulu\source\repos\Task001\Task001\bin\Debug\net8.0\Task001.dll
+C:\Users\paulu\source\repos\Task001\Task001\bin\Debug\net8.0\Task001.pdb
+C:\Users\paulu\source\repos\Task001\Task001\obj\Debug\net8.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulu\source\repos\Task001\Task001\obj\Debug\net8.0\Task001.AssemblyInfoInputs.cache
+C:\Users\paulu\source\repos\Task001\Task001\obj\Debug\net8.0\Task001.AssemblyInfo.cs
+C:\Users\paulu\source\repos\Task001\Task001\obj\Debug\net8.0\Task001.csproj.CoreCompileInputs.cache
+C:\Users\paulu\source\repos\Task001\Task001\obj\Debug\net8.0\Task001.dll
+C:\Users\paulu\source\repos\Task001\Task001\obj\Debug\net8.0\refint\Task001.dll
+C:\Users\paulu\source\repos\Task001\Task001\obj\Debug\net8.0\Task001.pdb
+C:\Users\paulu\source\repos\Task001\Task001\obj\Debug\net8.0\Task001.genruntimeconfig.cache
+C:\Users\paulu\source\repos\Task001\Task001\obj\Debug\net8.0\ref\Task001.dll
